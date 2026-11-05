@@ -1,6 +1,6 @@
 this is multi agent researcher paper writer and critic agentS
 
-A. ENVIRONMENT SETUP
+A. ENVIRONMENT SETUP and Folder structure
 B. CREATE TOOLS
 C. CREATE AGENTS
 D. CREATE PIPELINE
