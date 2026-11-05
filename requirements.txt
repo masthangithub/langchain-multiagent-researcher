@@ -1,0 +1,22 @@
+# Core LLM + Langchain eco system
+langchain==1.4.8
+langchain-core==1.4.8
+langchain-community==1.4.8
+langchain-anthropic==0.1.10
+langchain-openai==1.7.3
+langchain-google-genai==4.4.2
+
+# Tavily search tool
+langchain-tavily==0.2.18
+
+# web scraping 
+beautifulsoup4==4.13.2
+readability-lxml==0.10.1
+trafilatura 
+
+
+# Utility libraries
+python-dotenv==1.2.4
+requests==2.34.2
+lxml==5.4.3
+streamlit
