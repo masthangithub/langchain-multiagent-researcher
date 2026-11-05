@@ -15,4 +15,8 @@ py -3.11 -m venv .venv    create venv environment using Python 3.11
   py -m pip install --upgrade pip       to upgrade pip to the latest version
 
   pip install -r requirements.txt
+
+  To commit you should say who you are in vscode terminal 
+  git config --global user.email masthan.vali@gmail.com
+ git config --global user.name masthangithub
   
